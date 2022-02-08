@@ -1,5 +1,6 @@
 # 0.ppFDetector
 ## A Generative Adversarial Network-based Fault Detection Approach for Photovoltaic Panel
+![image](https://github.com/RobotvisionLab/ppFDetector/blob/main/image/ppdf.jpg)
 
 # 1.Installation
 #### conda create -n ppFDetector python=3.7
