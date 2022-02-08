@@ -6,7 +6,7 @@
 #### conda activate ppFDetector
 #### pip install --user --requirement requirements.txt
 
-# 2. train and test
+# 2.Train and test
 #### python train.py                     
 ####   --dataset <name-of-the-data>    
 ####   --isize <image-size>            
